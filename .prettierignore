@@ -1,0 +1,8 @@
+.vscode
+
+eslint.config.mjs
+pnpm-lock.yaml
+docker-compose.yaml
+
+node_modules
+dist
